@@ -1,4 +1,4 @@
-# Distributed Systems (SD) - NOVA FCT 🌐
+# Distributed Systems (SD) - NOVA FCT 🛰️
 
 **Bachelor in Computer Science and Engineering (LEI) | 3rd Year**
 
