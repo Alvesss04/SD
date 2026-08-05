@@ -1,6 +1,6 @@
 # Distributed Systems (SD) - NOVA FCT 🛰️
 
-**Bachelor in Computer Science and Engineering (LEI) | 3rd Year**
+**Bachelor in Computer Science and Engineering (LEI) | 3rd Year - 2nd Semester**
 
 This repository contains the projects developed for the Distributed Systems (Sistemas Distribuídos) course at the Faculty of Sciences and Technology of the NOVA University of Lisbon (NOVA FCT).
 
